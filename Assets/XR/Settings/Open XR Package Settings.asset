@@ -840,21 +840,21 @@ MonoBehaviour:
   - {fileID: 4963040286616351577}
   - {fileID: -1557233674024107270}
   - {fileID: 4893829345954421791}
-  - {fileID: 5047315830286589360}
-  - {fileID: 6504682016904032715}
-  - {fileID: 5007098057516315081}
-  - {fileID: 1727173055597128861}
-  - {fileID: -5941725581135416239}
+  - {fileID: -4478006660784508864}
+  - {fileID: -6081641041439107477}
+  - {fileID: 32361891232910083}
+  - {fileID: -34596358968032513}
+  - {fileID: -8732650259347650135}
   - {fileID: -4887643604812080188}
   - {fileID: -4647824206626811188}
   - {fileID: -1028784285735575096}
   - {fileID: -381482547018402083}
-  - {fileID: 6841333374066517713}
+  - {fileID: 7413458854745118488}
   - {fileID: -4454024988132797082}
-  - {fileID: 154189092879288027}
+  - {fileID: -8895518590110429109}
   - {fileID: 4451366187881382638}
   - {fileID: 4890582492822650874}
-  - {fileID: -5611916350011621528}
+  - {fileID: -7494486358618572369}
   - {fileID: 239522605376452086}
   - {fileID: 7258112949698542306}
   m_renderMode: 1
@@ -1347,7 +1347,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b213d3e3c7f3109449eb46a4c8ee42f0, type: 3}
   m_Name: XrPerformanceSettingsFeature Standalone
   m_EditorClassIdentifier: 
-  m_enabled: 0
+  m_enabled: 1
   nameUi: XR Performance Settings
   version: 1.0.0
   featureIdInternal: com.unity.openxr.feature.extension.performance_settings
